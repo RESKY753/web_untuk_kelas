@@ -141,7 +141,7 @@
 
         .hero-bg {
             /* Changed gradient to dark slate to create a modern dark theme */
-            background-image: linear-gradient(rgba(15, 23, 42, 0.85), rgba(15, 23, 42, 0.95)), url('https://placehold.co/1920x1080/0f172a/ffffff?text=Background+Foto+Kelas+Samar');
+            background-image: linear-gradient(rgba(118, 128, 151, 0.85), rgba(15, 23, 42, 0.95)), url('https://mail.google.com/mail/u/0?ui=2&ik=e7fe7d5101&attid=0.1&permmsgid=msg-f:1873821271857374192&th=1a012684d1a123f0&view=fimg&fur=ip&permmsgid=msg-f:1873821271857374192&sz=s0-l75-ft&attbid=ANGjdJ8fFM2rG81RTsdQMb8KXyACtqdCOkmBGsfCPFvNlKGXyT6pINvlj65GQt0WvuGK07XyZWnzXmOHjFgZy_6-bG6u3axwwioIoO1V7LHBTto8pqE78WE_CfmaUKA&disp=emb&realattid=ii_1a01268049e5a9234701&zw');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
