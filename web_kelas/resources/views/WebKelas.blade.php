@@ -243,7 +243,7 @@
                                     <img src="https://placehold.co/150x150/10b981/ffffff?text=Umar" alt="Sekretaris"
                                         class="w-full h-full object-cover">
                                 </div>
-                                <h4 class="font-bold text-white text-sm">Umar Faruq</h4>
+                                <h4 class="font-bold text-white text-sm">Unknow</h4>
                                 <p class="text-xs font-medium text-emerald-400 mt-0.5">Sekretaris 1</p>
                             </div>
                         </div>

@@ -42,3 +42,7 @@ Route::middleware(['auth'])->prefix('admin')->group(function () {
     Route::post('/memories', [memoriesController::class, 'store'])->name('memories.store');
     Route::delete('/memories/{id}', [memoriesController::class, 'destroy'])->name('memories.destroy');
 });
+
+// Route::get('/welcome', function(){
+//     return view('welcome');
+// });
