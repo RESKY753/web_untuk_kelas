@@ -133,7 +133,7 @@
             </div>
 
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-2xl mx-auto">
-                <a href="https://instagram.com" target="_blank"
+                <a href="https://instagram.com/xiiparvarpl_" target="_blank"
                     class="bg-slate-900 border border-slate-800 hover:border-brand-500/50 rounded-2xl p-6 flex items-center gap-4 transition-all group hover:shadow-lg hover:shadow-brand-500/10">
                     <div
                         class="w-14 h-14 rounded-xl bg-gradient-to-tr from-amber-500 via-rose-500 to-purple-600 flex items-center justify-center text-white text-2xl shrink-0 group-hover:scale-105 transition-transform shadow-md">
@@ -142,12 +142,12 @@
                     <div>
                         <h4 class="font-bold text-white text-base group-hover:text-brand-400 transition-colors">
                             Instagram Kelas</h4>
-                        <p class="text-xs text-slate-400 mt-0.5">@xiirpl2_official</p>
+                        <p class="text-xs text-slate-400 mt-0.5">@xiiparvarpl_</p>
                         <span class="inline-block mt-2 text-xs font-medium text-brand-500">Kunjungi Profil &rarr;</span>
                     </div>
                 </a>
 
-                <a href="https://tiktok.com" target="_blank"
+                <a href="https://www.tiktok.com/@parvatwo__" target="_blank"
                     class="bg-slate-900 border border-slate-800 hover:border-brand-500/50 rounded-2xl p-6 flex items-center gap-4 transition-all group hover:shadow-lg hover:shadow-brand-500/10">
                     <div
                         class="w-14 h-14 rounded-xl bg-slate-800 border border-slate-700 flex items-center justify-center text-white text-2xl shrink-0 group-hover:scale-105 transition-transform shadow-md">
@@ -156,7 +156,7 @@
                     <div>
                         <h4 class="font-bold text-white text-base group-hover:text-brand-400 transition-colors">TikTok
                             Kreatif</h4>
-                        <p class="text-xs text-slate-400 mt-0.5">@rpl2_vids</p>
+                        <p class="text-xs text-slate-400 mt-0.5">@parvatwo__</p>
                         <span class="inline-block mt-2 text-xs font-medium text-brand-500">Tonton Video &rarr;</span>
                     </div>
                 </a>
