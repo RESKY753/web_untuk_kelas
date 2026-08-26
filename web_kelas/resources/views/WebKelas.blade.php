@@ -330,8 +330,7 @@
             <div id="gallery-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 auto-rows-[220px]">
                 @forelse ($memories as $memory)
                     <div class="gallery-item relative group border border-slate-700/80 overflow-hidden rounded-xl cursor-pointer shadow-lg"
-                        onclick="openImageModal('{{ asset('storage/' . $memory->image_path) }}', '{{ $memory->title }}', '{{ $memory->category }}', '{{ $memory->created_at->translatedFormat('d F Y') }}')">
-
+                        onclick="openImageModal('{{ $memory->image_path }}', '{{ $memory->title }}', '{{ $memory->category }}', '{{ $memory->created_at->translatedFormat('d F Y') }}')">
                         <img src="{{ $memory->image_path }}" alt="{{ $memory->title }}"
                             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
 
