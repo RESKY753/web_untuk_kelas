@@ -295,8 +295,7 @@
                     <div
                         class="bg-slate-800 rounded-xl overflow-hidden shadow-lg hover:shadow-brand-500/20 transition-all border border-slate-700 group">
                         <div class="aspect-[3/4] overflow-hidden bg-slate-700">
-                            <img src="{{ $member->photo_path ? asset('storage/' . $member->photo_path) : 'https://placehold.co/300x400/0f172a/0ea5e9?text=' . urlencode($member->name) }}"
-                                alt="{{ $member->name }}"
+                            <img src="{{ $member->photo_path }}" alt="{{ $member->name }}"
                                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                         </div>
                         <div class="p-4 text-center">
@@ -333,7 +332,7 @@
                     <div class="gallery-item relative group border border-slate-700/80 overflow-hidden rounded-xl cursor-pointer shadow-lg"
                         onclick="openImageModal('{{ asset('storage/' . $memory->image_path) }}', '{{ $memory->title }}', '{{ $memory->category }}', '{{ $memory->created_at->translatedFormat('d F Y') }}')">
 
-                        <img src="{{ asset('storage/' . $memory->image_path) }}" alt="{{ $memory->title }}"
+                        <img src="{{ $item->image_path }}" alt="{{ $item->title }}"
                             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
 
                         <div
